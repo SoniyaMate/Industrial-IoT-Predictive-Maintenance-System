@@ -8,6 +8,8 @@
 - **Lowers maintenance costs** through predictive scheduling
 - **Extends equipment lifespan** with early intervention
 - **Improves production efficiency** and customer satisfaction
+<img width="1881" height="814" alt="image" src="https://github.com/user-attachments/assets/4640b8a4-6ff5-431b-9d39-64ece5e43df7" />
+
 
 ---
 
