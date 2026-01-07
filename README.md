@@ -166,7 +166,7 @@ The algorithm penalizes temperature and vibration deviations from baseline value
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
-Made with ❤️ for the future of manufacturing
+
 
 </div>
 
